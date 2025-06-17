@@ -1,0 +1,1 @@
+public class ClienteGetEmail { public static void main(String[] args) throws Exception { System.out.println("Simulação GET POR EMAIL"); } }

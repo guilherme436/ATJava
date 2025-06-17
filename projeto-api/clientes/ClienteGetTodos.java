@@ -1,0 +1,1 @@
+public class ClienteGetTodos { public static void main(String[] args) throws Exception { System.out.println("Simulação GET TODOS"); } }
